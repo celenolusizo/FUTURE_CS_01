@@ -46,3 +46,5 @@ Login bypass, Exploitation, Brute force attacks, Denial-of-Service (DoS) and Any
 - Implementation of proper security headers
 - emphasis on using HTTPS and secure cookies
 - Following the guidelines of OWASP Top 10.
+# Disclaimer
+This assessment was conducted for educational purposes only on a publicly available demo application. No harmful actions were performed.
